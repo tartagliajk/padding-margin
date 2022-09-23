@@ -1,0 +1,49 @@
+h1{
+    background-color: blanchedalmond;
+    margin: 35px;
+    border: 1px solid green;
+}
+
+p{
+    padding: 35px;
+    background-color: tomato;
+    border: 3px solid green;
+}
+
+div{
+    margin-top: 10px;
+}
+
+#square{
+    background-color: black;
+    width: 30px;
+    height: 30px;
+}
+
+#rectangle{
+    background-color: rgb(235, 76, 161);
+    width: 50px;
+    height: 20px;
+}
+
+#circle{
+    height: 50px;
+    width: 50px;
+    background-color: #348a75;
+    border-radius: 50%;
+}
+
+#oval{
+    height:50px;
+    width: 80px;
+    background-color: #1212de;
+    border-radius: 80%;
+}
+
+#triangle{
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 50px solid #fff123;
+}
